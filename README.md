@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution ](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution ](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/responsive-page-using-css-flexbox-and-css-grid-M14uhLIGlq)
+- Live Site URL: [Live site](https://extraordinary-meerkat-d20766.netlify.app/)
 
 ## My process
 
@@ -63,16 +63,12 @@ css code
 ### Continued development
 how to make ir responsible for 1024px as desktop view
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 
 ## Author
 
-- Website - [Hawi Girmachew](https://www.your-site.com)
+- Website - [Hawi Girmachew](https://extraordinary-meerkat-d20766.netlify.app/)
 - Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/Hawigirmachew)
 - Twitter - [@girmachee_h](https://www.twitter.com/girmachee_h)
 
