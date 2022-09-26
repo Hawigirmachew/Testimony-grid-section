@@ -11,8 +11,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+ 
 - [Author](#author)
 
 
@@ -33,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution ](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/responsive-page-using-css-flexbox-and-css-grid-M14uhLIGlq)
-- Live Site URL: [Live site](https://extraordinary-meerkat-d20766.netlify.app/)
+- Live Site URL: [Live site](https://relaxed-profiterole-b1fdf1.netlify.app/)
 
 ## My process
 
@@ -59,10 +58,6 @@ css code
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
 }
-
-### Continued development
-how to make ir responsible for 1024px as desktop view
-
 
 
 
